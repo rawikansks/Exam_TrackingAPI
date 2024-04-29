@@ -1,0 +1,17 @@
+C:\Web\Exam_TrackingApi\Exam.BusinessLogic\bin\Debug\net6.0\Exam.BusinessLogic.deps.json
+C:\Web\Exam_TrackingApi\Exam.BusinessLogic\bin\Debug\net6.0\Exam.BusinessLogic.dll
+C:\Web\Exam_TrackingApi\Exam.BusinessLogic\bin\Debug\net6.0\Exam.BusinessLogic.pdb
+C:\Web\Exam_TrackingApi\Exam.BusinessLogic\bin\Debug\net6.0\Exam.Models.dll
+C:\Web\Exam_TrackingApi\Exam.BusinessLogic\bin\Debug\net6.0\Exam.Models.pdb
+C:\Web\Exam_TrackingApi\Exam.BusinessLogic\obj\Debug\net6.0\Exam.BusinessLogic.csproj.AssemblyReference.cache
+C:\Web\Exam_TrackingApi\Exam.BusinessLogic\obj\Debug\net6.0\Exam.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web\Exam_TrackingApi\Exam.BusinessLogic\obj\Debug\net6.0\Exam.BusinessLogic.AssemblyInfoInputs.cache
+C:\Web\Exam_TrackingApi\Exam.BusinessLogic\obj\Debug\net6.0\Exam.BusinessLogic.AssemblyInfo.cs
+C:\Web\Exam_TrackingApi\Exam.BusinessLogic\obj\Debug\net6.0\Exam.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Web\Exam_TrackingApi\Exam.BusinessLogic\obj\Debug\net6.0\Exam.BusinessLogic.csproj.CopyComplete
+C:\Web\Exam_TrackingApi\Exam.BusinessLogic\obj\Debug\net6.0\Exam.BusinessLogic.dll
+C:\Web\Exam_TrackingApi\Exam.BusinessLogic\obj\Debug\net6.0\refint\Exam.BusinessLogic.dll
+C:\Web\Exam_TrackingApi\Exam.BusinessLogic\obj\Debug\net6.0\Exam.BusinessLogic.pdb
+C:\Web\Exam_TrackingApi\Exam.BusinessLogic\obj\Debug\net6.0\ref\Exam.BusinessLogic.dll
+C:\Web\Exam_TrackingApi\Exam.BusinessLogic\bin\Debug\net6.0\Exam.DataAccess.dll
+C:\Web\Exam_TrackingApi\Exam.BusinessLogic\bin\Debug\net6.0\Exam.DataAccess.pdb

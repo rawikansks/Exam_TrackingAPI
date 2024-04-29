@@ -1,0 +1,17 @@
+C:\Web\Exam_TrackingApi\Exam.DataAccess\bin\Debug\net6.0\Exam.DataAccess.deps.json
+C:\Web\Exam_TrackingApi\Exam.DataAccess\bin\Debug\net6.0\Exam.DataAccess.runtimeconfig.json
+C:\Web\Exam_TrackingApi\Exam.DataAccess\bin\Debug\net6.0\Exam.DataAccess.dll
+C:\Web\Exam_TrackingApi\Exam.DataAccess\bin\Debug\net6.0\Exam.DataAccess.pdb
+C:\Web\Exam_TrackingApi\Exam.DataAccess\bin\Debug\net6.0\Exam.Models.dll
+C:\Web\Exam_TrackingApi\Exam.DataAccess\bin\Debug\net6.0\Exam.Models.pdb
+C:\Web\Exam_TrackingApi\Exam.DataAccess\obj\Debug\net6.0\Exam.DataAccess.csproj.AssemblyReference.cache
+C:\Web\Exam_TrackingApi\Exam.DataAccess\obj\Debug\net6.0\Exam.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web\Exam_TrackingApi\Exam.DataAccess\obj\Debug\net6.0\Exam.DataAccess.AssemblyInfoInputs.cache
+C:\Web\Exam_TrackingApi\Exam.DataAccess\obj\Debug\net6.0\Exam.DataAccess.AssemblyInfo.cs
+C:\Web\Exam_TrackingApi\Exam.DataAccess\obj\Debug\net6.0\Exam.DataAccess.csproj.CoreCompileInputs.cache
+C:\Web\Exam_TrackingApi\Exam.DataAccess\obj\Debug\net6.0\Exam.DataAccess.csproj.CopyComplete
+C:\Web\Exam_TrackingApi\Exam.DataAccess\obj\Debug\net6.0\Exam.DataAccess.dll
+C:\Web\Exam_TrackingApi\Exam.DataAccess\obj\Debug\net6.0\refint\Exam.DataAccess.dll
+C:\Web\Exam_TrackingApi\Exam.DataAccess\obj\Debug\net6.0\Exam.DataAccess.pdb
+C:\Web\Exam_TrackingApi\Exam.DataAccess\obj\Debug\net6.0\Exam.DataAccess.genruntimeconfig.cache
+C:\Web\Exam_TrackingApi\Exam.DataAccess\obj\Debug\net6.0\ref\Exam.DataAccess.dll

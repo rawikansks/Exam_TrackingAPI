@@ -1,0 +1,12 @@
+C:\Web\Exam_TrackingApi\Exam.Models\bin\Debug\net6.0\Exam.Models.deps.json
+C:\Web\Exam_TrackingApi\Exam.Models\bin\Debug\net6.0\Exam.Models.dll
+C:\Web\Exam_TrackingApi\Exam.Models\bin\Debug\net6.0\Exam.Models.pdb
+C:\Web\Exam_TrackingApi\Exam.Models\obj\Debug\net6.0\Exam.Models.csproj.AssemblyReference.cache
+C:\Web\Exam_TrackingApi\Exam.Models\obj\Debug\net6.0\Exam.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web\Exam_TrackingApi\Exam.Models\obj\Debug\net6.0\Exam.Models.AssemblyInfoInputs.cache
+C:\Web\Exam_TrackingApi\Exam.Models\obj\Debug\net6.0\Exam.Models.AssemblyInfo.cs
+C:\Web\Exam_TrackingApi\Exam.Models\obj\Debug\net6.0\Exam.Models.csproj.CoreCompileInputs.cache
+C:\Web\Exam_TrackingApi\Exam.Models\obj\Debug\net6.0\Exam.Models.dll
+C:\Web\Exam_TrackingApi\Exam.Models\obj\Debug\net6.0\refint\Exam.Models.dll
+C:\Web\Exam_TrackingApi\Exam.Models\obj\Debug\net6.0\Exam.Models.pdb
+C:\Web\Exam_TrackingApi\Exam.Models\obj\Debug\net6.0\ref\Exam.Models.dll
